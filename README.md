@@ -1,9 +1,8 @@
 # kbn-osang
 KBN포털
 <br />
-2019
-반응형
-
+2019<br />
+반응형 웹 사이트 - PC/ TAB / MO
 <br /><br />
 - 운영 : http://www.kbn.re.kr/kbn/main.do<br />
 - 서버 : 
